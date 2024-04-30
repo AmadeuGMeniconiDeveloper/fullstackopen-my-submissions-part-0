@@ -1,1 +1,2 @@
-# fullstackopen-my-submissions-part-0
+# Online course from Helsinki University
+https://fullstackopen.com/en/
